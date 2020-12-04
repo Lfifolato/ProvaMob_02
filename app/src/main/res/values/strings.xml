@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProvaMob_02</string>
+
+    <string name="ajuda">Ajuda</string>
+    <string name="sair">Sair</string>
+    <string name="prova_menu">Prova Menu</string>
+
+
+</resources>
